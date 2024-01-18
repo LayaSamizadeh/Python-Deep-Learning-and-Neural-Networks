@@ -2,7 +2,8 @@
 models/vgg16_weights_tf_dim_ordering_tf_kernels.h5
 
 # Datasets
-data/
+data/*
+!data/MobileNet-samples/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
